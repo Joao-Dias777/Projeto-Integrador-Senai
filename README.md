@@ -45,9 +45,9 @@ Faltas (0 a 10): 1
 
 ...
 
-======= Boletim Escolar =======                                                                                                                                                     .
+======= Boletim Escolar =======                                                                                                                                                     
 Professor: Atila
-Unidade Curricular: Lógica de Programação e Algoritmos                                                                                                                              .
+Unidade Curricular: Lógica de Programação e Algoritmos                                                                                                                              
 Turma: 1DT
 
 Aluno: João
