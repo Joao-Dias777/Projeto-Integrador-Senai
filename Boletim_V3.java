@@ -131,8 +131,8 @@ public class Boletim_V3 {
 			writer.write("\nMédia geral da turma: " + String.format("%.1f", mediaGeralTurma) + "\n");
 			writer.write("Alunos acima da média geral: " + alunosAcimaMedia + "\n");
 			writer.write("Alunos abaixo da média geral: " + alunosAbaixoMedia + "\n");
-			writer.write("Aluno com maior média: " + nomesAlunos[melhorAluno]);
-			writer.write("Aluno com menor média: " + nomesAlunos[piorAluno]);
+			writer.write("Aluno com maior média: " + nomesAlunos[melhorAluno] + "\n");
+			writer.write("Aluno com menor média: " + nomesAlunos[piorAluno] + "\n");
 			writer.write("Melhor aluno: " + nomesAlunos[melhorAluno] + " com média "
 					+ String.format("%.1f", mediasFinais[melhorAluno]));
 
