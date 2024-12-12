@@ -1,4 +1,4 @@
-#Projeto Integrador Boletim
+Projeto Integrador Boletim
 
 Este programa é uma ferramenta útil para professores gerenciarem de forma eficiente o desempenho acadêmico de seus alunos. Siga este manual para garantir o uso correto e eficaz do software.
 
